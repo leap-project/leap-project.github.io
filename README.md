@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to LEAP
 
-You can use the [editor on GitHub](https://github.com/leap-project/leap-project.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are group of researchers at the University of British Columbia (UBC). We study topics at the intersections of health, machine learning, privacy, ethics, and security. We aspire to build usable privacy-enhancing systems that can be readily deployed in healthcare domains. We pursue a variety of projects and collaborations, some of which are detailed below.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Current projects
 
-### Markdown
+- A
+- B
+- C
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Recent publications
 
-```markdown
-Syntax highlighted code block
+- A
+- B
+- C
 
-# Header 1
-## Header 2
-### Header 3
+### People
 
-- Bulleted
-- List
+Our research team includes:
 
-1. Numbered
-2. List
+- A
+- B
+- C
 
-**Bold** and _Italic_ and `Code` text
+We work with a fantastic group of students:
 
-[Link](url) and ![Image](src)
-```
+- A
+- B
+- C
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+If you would like to get in touch, please contact X@ubc.edu
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leap-project/leap-project.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
