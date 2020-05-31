@@ -1,3 +1,3 @@
-## Synthesizing privacy-preserving data
+## Preserving privacy with data synthesis
 
 TBD
