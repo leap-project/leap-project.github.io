@@ -7,6 +7,7 @@ We are group of researchers at the University of British Columbia (UBC). We stud
 ### Current projects
 
 - [Explaining differential privacy](./explaining-dp.md)
+- [Optimizing privacy budget in differential privacy](./budget-optimization.md)
 - [Preserving privacy with data synthesis](./synthesizing-data.md)
 - [Federated ML across RedCap databases](./federated-ml-rcap.md)
 
