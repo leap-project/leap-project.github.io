@@ -28,11 +28,18 @@ Our research team includes:
 
 We work with a fantastic group of students:
 
+- Matheus Stolet (CS MSc)
 - Aditya Chinchure (WLIUR'20)
 - Kalli Leung (USRA'20)
-- Chris West (YYY'20)
-- Daisy Zhang (SURE'20
+- Chris West
+- Chris Yoon (Med student)
+- Daisy Zhang (SURE'20)
 
+### Funding
+
+We are grateful to NSERC, UBC Data Science Intitute, and UBC Faculty of Science for their support.
+
+### Contact
 
 If you would like to get in touch, please email us: X@ubc.edu
 
