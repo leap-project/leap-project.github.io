@@ -31,7 +31,7 @@ We work with a fantastic group of students:
 - Matheus Stolet (CS MSc)
 - Aditya Chinchure (WLIUR'20)
 - Kalli Leung (USRA'20)
-- Chris West
+- Chris West (CS Honours)
 - Chris Yoon (Med student)
 - Daisy Zhang (SURE'20)
 
