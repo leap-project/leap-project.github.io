@@ -12,7 +12,7 @@ In particular, we are looking at:
 
   
 
-* Private synthetic data generation from adversarial GAN training (using the PrivGAN framework, found [here](https://arxiv.org/abs/2001.00071v3)
+* Private synthetic data generation from adversarial GAN training (using the PrivGAN framework, found [here])(https://arxiv.org/abs/2001.00071v3)
 
 * Evaluate the utility impact of adding differential privacy to synthetic data generation for strong privacy guarantees
 
