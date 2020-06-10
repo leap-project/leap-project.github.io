@@ -42,6 +42,6 @@ We are grateful to NSERC, UBC Data Science Intitute, and UBC Faculty of Science 
 
 ### Contact
 
-If you would like to get in touch, please email us: X@ubc.edu
+If you would like to get in touch, please email Prof. Aline Talhouk: *atalhouk (at) bccrc (dot) ca*
 
 
