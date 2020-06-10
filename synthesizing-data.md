@@ -27,7 +27,7 @@ We are exploring situations in which our framework for private synthetic data ge
   
 
 <p align="center">
-  <img width="260" src="assets/diagrams/PrivGANDiagram.png">
+  <img width="650" src="assets/diagrams/PrivGANDiagram.png">
 </p>
 
   
