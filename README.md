@@ -1,5 +1,3 @@
-## Welcome to LEAP
-
 <img src="./leap-logo.jpg" width="150" height="150" align="right" />
 
 We are group of researchers at the University of British Columbia (UBC). We study topics at the intersections of health, machine learning, privacy, ethics, and security. We aspire to build usable privacy-enhancing systems that can be readily deployed in healthcare domains. We pursue a variety of projects and collaborations, some of which are detailed below.
