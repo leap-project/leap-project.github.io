@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+#container {
+  min-height: 595px;
+  background: white;
+}
+
 a {
   color: #d5000d;
 }
