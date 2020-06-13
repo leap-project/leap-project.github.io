@@ -12,6 +12,11 @@ We are group of researchers at the University of British Columbia (UBC). We stud
 - [Preserving privacy with data synthesis](./synthesizing-data.md)
 - [Federated ML across RedCap databases](./federated-ml-rcap.md)
 
+### Applications of our research
+
+- [Endometriosis](./app-endometriosis.md)
+- [Digital pathology](./app-digital-pathology.md)
+
 ### Recent publications
 
 - *“Causes of death among women with epithelial ovarian cancer by length of survival post-diagnosis: a population-based study in British Columbia, Canada”.* Arora, N, A. Talhouk, J. N. McAlpine, M. R. Law and G. E. Hanley (2019). International Journal of Gynecologic Cancer 29.3, pp. 593-598.
