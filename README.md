@@ -19,7 +19,7 @@ We are group of researchers at the University of British Columbia (UBC) interest
 
 Our research team includes:
 
-- [Aline Talhouk](http://alinetalhouk.com/) (Professor in Faculty of Medicine at UBC)
+- [Aline Talhouk](http://alinetalhouk.com/) (Professor in the Faculty of Medicine at UBC)
 - [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) (Professor in Computer Science at UBC)
 - [Mathias Lécuyer](http://mathias.lecuyer.me/) (Joining as Professor in Computer Science at UBC in 2021)
 - [Jean-Francois Rajotte](https://scholar.google.com/citations?user=rDYYdUUAAAAJ&hl=en) (Resident Data Scientist at UBC)
