@@ -1,6 +1,6 @@
 <img src="./leap-logo.jpg" width="150" height="150" align="right" />
 
-We are group of researchers at the University of British Columbia (UBC). We study topics at the intersections of health, machine learning, privacy, ethics, and security. We aspire to build usable privacy-enhancing systems that can be readily deployed in healthcare domains. We pursue a variety of projects and collaborations, some of which are detailed below.
+We are group of researchers at the University of British Columbia (UBC) interested in topics at the intersections of health, machine learning, privacy, ethics, and security. We aspire to build usable privacy-enhancing systems that can be readily deployed in healthcare domains. We pursue a variety of projects and collaborations in different domains, some of which are detailed below.
 
 ### Current projects
 
@@ -15,17 +15,11 @@ We are group of researchers at the University of British Columbia (UBC). We stud
 - [Endometriosis](./app-endometriosis.md)
 - [Digital pathology](./app-digital-pathology.md)
 
-### Recent publications
-
-- *“Causes of death among women with epithelial ovarian cancer by length of survival post-diagnosis: a population-based study in British Columbia, Canada”.* Arora, N, A. Talhouk, J. N. McAlpine, M. R. Law and G. E. Hanley (2019). International Journal of Gynecologic Cancer 29.3, pp. 593-598.
-- *"Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform."* Mathias Lécuyer, Riley Spahn, Kiran Vodrahalli, Roxana Geambasu, Daniel Hsu. (SOSP 2019) 
-- *"The Limitations of Federated Learning in Sybil Settings."* Clement Fung, Chris J.M. Yoon, Ivan Beschastnikh. (RAID 2020)
-
 ### People
 
 Our research team includes:
 
-- [Aline Talhouk](http://alinetalhouk.com/) (Professor in Faculty of Medicine at UBC)
+- [Aline Talhouk](http://alinetalhouk.com/) (Professor in the Faculty of Medicine at UBC)
 - [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) (Professor in Computer Science at UBC)
 - [Mathias Lécuyer](http://mathias.lecuyer.me/) (Joining as Professor in Computer Science at UBC in 2021)
 - [Jean-Francois Rajotte](https://scholar.google.com/citations?user=rDYYdUUAAAAJ&hl=en) (Resident Data Scientist at UBC)
@@ -39,7 +33,13 @@ We work with a fantastic group of students:
 - Chris Yoon (Med student)
 - Daisy Zhang (SURE'20)
 
+### Recent publications
+
+- *“Development and validation of the gene-expression Predictor of high-grade-serous Ovarian carcinoma molecular subTYPE (PrOTYPE)”.* A Talhouk, J George, C Wang, T Budden, T Z Tan, P D P Pharoah, G E Konecny, E L Goode, S J Ramus, J A Doherty, DD Bowtell, M S Anglesio, and the Ovarian Tumor Tissye Analysis Consortium. (2020). Clinical Cancer Research, to appear.
+- *"Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform."* Mathias Lécuyer, Riley Spahn, Kiran Vodrahalli, Roxana Geambasu, Daniel Hsu. (SOSP 2019) 
+- *"The Limitations of Federated Learning in Sybil Settings."* Clement Fung, Chris J.M. Yoon, Ivan Beschastnikh. (RAID 2020)
+
 ### Funding
 
-We are grateful to NSERC, UBC Data Science Intitute, and UBC Faculty of Science for their support.
+We are grateful to NSERC, MSFHR, CIHR, UBC Data Science Intitute, and UBC Faculty of Science for their support.
 
