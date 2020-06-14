@@ -5,5 +5,5 @@ Differential privacy gives formal guarantees to prevent privacy violations that 
 This project optimizes the use of the privacy budget so that users can extract more utility from a system with differential privacy guarantees. We do this by implementing a smart cache, where we identify queries that a user has made in the past, and return a cached result instead of computing a new answer and spending the budget. Furthermore, new queries are extrapolated from prior query results, thus consuming only a small amount of the budget.
 
 <p align="center">
-  <img width="320" src="assets/diagrams/leap_cache.png">
+  <img width="415" src="assets/diagrams/leap_cache.png">
 </p>
