@@ -1,27 +1,12 @@
 ## Explaining differential privacy
 
-1. State problem that people have.
+Differential privacy provides formal guarantees on privacy; it provides a framework that allows the sharing of summary statistics of a dataset without disclosing additional information of any individuals in the dataset. However, few medical research data are released with differential privacy at the moment, as it is yet to be introduced to the medical community at large. 
 
- * Who has this problem?
- * How big is the problem?
- * What are current approaches to solving this or similar problems?
+### xDP, a Tool that Explains Differential Privacy
 
-2. Discuss approach to handle problem.
+To facilitate the much needed discussions about differential privacy in the medical research community, we are developing xDP, an interactive tool with dynamic and animated visualizations that explains various concepts about differential privacy to stakeholders in medical research, those who are involved in the decision-making process of medical data usage, such as patients, researchers, ethics board members, privacy assessment office, and data stewards. 
 
- * We will build a tool, called xDP.
- * Explain why a tool is the right approach.
+As there are various types of stakeholders, each with different backgrounds and preferences for different levels/types of detail about differential privacy, xDP has multiple layers, equipping each stakeholder with necessary information to reason, discuss and eventually make their conclusions about if and when to adopt differential privacy; all stakeholders can start by understanding the high level concepts behind differential privacy, and those who wish to learn more can continue to additional modules that explain the more complex aspects of differential privacy. 
 
-3. Describe xDP tool:
-
-xDP is a tool to aid in explaining differential privacy in a visual and interactive format. The project has two components. The first component is explaining the concepts of differential privacy to stakeholders in medical research (i.e., patients, researchers, ethics board members, privacy assessment office, data stewards) that influence the decision making process in medical data usage. The second component is guiding researchers and data stewards in selecting an appropriate epsilon that satisfies the privacy concerns of patients as well as the accuracy requirements of researchers.
-
-### Explaining Differential Privacy
-
-Using our tool, users will gain an intuition for differential privacy through active learning. As there are various stakeholders ranging from patients to data stewards, each with different backgrounds and preferences for how much they would like to know, we are building the tool to have multiple layers.
-
-All stakeholders can start by understanding the high level concepts behind differential privacy. Stakeholders who wish to learn more can continue to modules that explain the more complex aspects of differential privacy. We are also experimenting with dynamic and animated visualizations to better visualize the uncertainty aspect of differential privacy.
-
-### Selecting Epsilon
-
-The tool will also guide users in estimating properties of the privacy risk such as the cost and prior probabilities of adverse events, as well as the cost of inaccurate analysis. These insights will be used to help users select an optimal epsilon that satisfies both privacy and accuracy requirements.
-
+### xDP, a Tool that Helps Select Epsilon
+The choice of epsilon is often left as a social problem, beyond the scope of technical discussions of differential privacy. xDP will guide stakeholders to reason about the cost and prior probabilities of privacy leaks as well as the cost of inaccurate analysis. Intuitions and insights developed through xDP can in turn facilitate discussions about the ways in which epsilon should be set when differential privacy is used in data sharing and ultimately help establish guidelines in selecting optimal epsilon values that would satisfy both privacy and accuracy requirements of all stakeholders, benefiting the society at large.
