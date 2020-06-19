@@ -6,5 +6,4 @@ This project optimizes the use of the privacy budget so that users can extract m
 
 <p align="center">
   <img src="assets/diagrams/leap_cache.png">
-  <figcaption> When caching, LEAP may not be required to issue new queries to the sites containing the data. Repeated queries are returned from the cache, thus conserving the privacy budget. </figcaption>
 </p>
