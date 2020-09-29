@@ -33,7 +33,7 @@ We work with a fantastic group of students:
 - Chris Yoon (Med student)
 - Daisy Zhang (Directed studies, SURE'20)
 
-Alumni:
+Student alumni:
 
 - Aditya Chinchure (WLIUR'20)
 
