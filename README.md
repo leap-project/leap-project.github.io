@@ -27,11 +27,16 @@ Our research team includes:
 We work with a fantastic group of students:
 
 - Matheus Stolet (CS MSc)
-- Aditya Chinchure (WLIUR'20)
-- Kalli Leung (USRA'20)
+- Ahmed Abdelmoneim (CS Honors)
+- Kalli Leung (Directed studies, USRA'20)
 - Chris West (CS Honours)
 - Chris Yoon (Med student)
-- Daisy Zhang (SURE'20)
+- Daisy Zhang (Directed studies, SURE'20)
+
+Alumni:
+
+- Aditya Chinchure (WLIUR'20)
+
 
 ### Recent publications
 
