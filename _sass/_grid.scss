@@ -1,0 +1,17 @@
+.grid__item {
+
+  .archive__item-teaser {
+
+    max-height: none;
+    height: 0;
+    padding-bottom: 100%;
+    position: relative;
+    border-radius: 100%;
+
+    img {
+      object-fit: cover;
+    }
+
+  }
+
+}

@@ -1,0 +1,8 @@
+## Endometriosis application
+We collaborate closely with Dr. Paul Yong and [the Endometriosis and Pelvic Pain research group at UBC](https://yonglab.med.ubc.ca). 
+
+*Endometriosis* is a chronic illness that affects about 10% of reproductive-aged women globally (approximately 1 million women in Canada). It is defined as tissue from inside the uterus (womb) growing outside the uterus, typically throughout the pelvic cavity but also at diverse sites, such as the thoracic cavity and surgical scars. Endometriosis is a common cause of infertility and pelvic pain, with symptoms often starting in adolescence, and that may include menstrual cramps, chronic pelvic pain, and pain with intercourse or bowel movements, affecting women’s quality-of-life for many years. 
+
+One of the challenges in endometriosis is the heterogeneity of the condition requiring standardization of the definition of disease and outcomes. To mediate this, in 2014, the World Endometriosis Research Foundation published [EPHect](http://endometriosisfoundation.org/ephect), a standardized survey with core data elements required to study endometriosis. UBC was a member of the working group for the development and publication of EPHect, which specifies international standards for collection of clinical data (patient-reported), surgical data (surgeon-reported), and biobanking data (researcher-reported). EPHect data collected at different centres is still not brought together effectively. 
+
+The objective is to enable incorporation of different EPHect collected data at different Canadian and international sites through LEAP.
