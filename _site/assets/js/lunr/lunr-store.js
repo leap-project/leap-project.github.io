@@ -3,7 +3,7 @@ var store = [{
         "excerpt":"Differential privacy gives formal guarantees to prevent privacy violations that may occur when computing on sensitive datasets. Queries can be issued to a system and a differentially private mechanism guarantees that leakage of information will be mitigated. To be effective, a system with differential privacy must constrain the number of...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/projects/budget-optimization/",
-        "teaser": null
+        "teaser": "http://localhost:4000/assets/images/team/aline.jpg"
       },{
         "title": "Explaining differential privacy",
         "excerpt":"Differential privacy provides formal guarantees on privacy; it provides a framework that allows the sharing of summary statistics of a dataset without disclosing additional information of any individuals in the dataset. However, few medical research data are released with differential privacy at the moment, as it is yet to be...","categories": [],
@@ -30,19 +30,19 @@ var store = [{
         "teaser": "http://localhost:4000/assets/images/team/aline.jpg"
       },{
         "title": "Ivan Beschastnikh",
-        "excerpt":"## Professor in Computer Science at UBC I have broad research interests that usually touch on systems and software engineering. My current projects span distributed systems, formal methods, networks, and security. I enjoy building and studying real software systems and tend to be empirical in my research. I started at...","categories": [],
+        "excerpt":"Professor in Computer Science at UBC I have broad research interests that usually touch on systems and software engineering. My current projects span distributed systems, formal methods, networks, and security. I enjoy building and studying real software systems and tend to be empirical in my research. I started at UBC...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/team/ivan-beschastnikh/",
         "teaser": "http://localhost:4000/assets/images/team/ivanb.jpg"
       },{
         "title": "Jean-Francois Rajotte",
-        "excerpt":"## Resident Data Scientist at UBC ","categories": [],
+        "excerpt":"Resident Data Scientist at UBC  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/team/jean-francois-rajotte/",
         "teaser": "http://localhost:4000/assets/images/team/jean-francois-r.jpg"
       },{
         "title": "Mathias Lécuyer",
-        "excerpt":"## Joining as Professor in Computer Science at UBC in 2021","categories": [],
+        "excerpt":"Joining as Professor in Computer Science at UBC in 2021  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/team/mathias-lecuyer/",
         "teaser": "http://localhost:4000/assets/images/team/mathiasl.jpg"
