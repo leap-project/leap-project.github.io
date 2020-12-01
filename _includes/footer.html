@@ -1,4 +1,5 @@
-<img class="page__footer-logo" src="/assets/images/logo-negative.svg" alt="Leap Logo"/>
+{% capture logo_path %}{{ site.footer.logo }}{% endcapture %}
+<img class="page__footer-logo" src="{{ logo_path | relative_url }}" alt="Leap Logo"/>
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
