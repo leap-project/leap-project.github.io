@@ -78,6 +78,7 @@ author:
 logo: "/assets/images/logo.svg"
 
 footer:
+  logo: "/assets/images/logo-negative.svg"
   # links:
   #   - label: "Twitter"
   #     icon: "fab fa-fw fa-twitter-square"
