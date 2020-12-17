@@ -1,5 +1,6 @@
 ---
 title: Ivan Beschastnikh
+group: core
 header:
   teaser: /assets/images/team/ivanb.jpg
 ---

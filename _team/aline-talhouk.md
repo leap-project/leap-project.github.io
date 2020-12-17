@@ -1,5 +1,6 @@
 ---
 title: Aline Talhouk
+group: core
 header:
   teaser: /assets/images/team/aline.jpg
 ---

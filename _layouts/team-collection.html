@@ -1,0 +1,27 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% assign core_entries = site['team'] | where:'group', 'core' %}
+{% assign affiliate_entries = site['team'] | where:'group', 'affiliate' %}
+
+<h2>Core Team</h2>
+<div class="entries-{{ entries_layout }}">
+  {%- for post in core_entries -%}
+    {%- unless post.hidden -%}
+      {% include archive-single.html type=entries_layout %}
+    {%- endunless -%}
+  {%- endfor -%}
+</div>
+
+<h2>Affiliate Team</h2>
+<div class="entries-{{ entries_layout }}">
+  {%- for post in affiliate_entries -%}
+    {%- unless post.hidden -%}
+      {% include archive-single.html type=entries_layout %}
+    {%- endunless -%}
+  {%- endfor -%}
+</div>

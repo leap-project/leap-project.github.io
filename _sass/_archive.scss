@@ -171,6 +171,13 @@
   }
 }
 
+.entries-grid {
+  display: block;
+  @include breakpoint($medium) {
+    display: flex;
+  }
+}
+
 .grid__item {
   margin-bottom: 2em;
 
