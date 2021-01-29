@@ -1,6 +1,6 @@
 ---
 title: Jean-Francois Rajotte
-group: core
+group: faculty
 header:
   teaser: /assets/images/team/jean-francois-r.jpg
 ---

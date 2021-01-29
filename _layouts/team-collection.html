@@ -4,24 +4,11 @@ layout: archive
 
 {{ content }}
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-{% assign core_entries = site['team'] | where:'group', 'core' %}
-{% assign affiliate_entries = site['team'] | where:'group', 'affiliate' %}
+{% assign entries_layout =   page.entries_layout | default: 'list' %}
+{% assign faculty_entries =  site['team'] | where:'group', 'faculty' %}
+{% assign students_entries = site['team'] | where:'group', 'students' %}
+{% assign alumni_entries =   site['team'] | where:'group', 'alumni' %}
 
-<h2>Core Team</h2>
-<div class="entries-{{ entries_layout }}">
-  {%- for post in core_entries -%}
-    {%- unless post.hidden -%}
-      {% include archive-single.html type=entries_layout %}
-    {%- endunless -%}
-  {%- endfor -%}
-</div>
-
-<h2>Affiliate Team</h2>
-<div class="entries-{{ entries_layout }}">
-  {%- for post in affiliate_entries -%}
-    {%- unless post.hidden -%}
-      {% include archive-single.html type=entries_layout %}
-    {%- endunless -%}
-  {%- endfor -%}
-</div>
+{% include /team/member-entry.html title="Faculty"  entries=faculty_entries  entries_layout=entries_layout %}
+{% include /team/member-entry.html title="Students" entries=students_entries entries_layout=entries_layout %}
+{% include /team/member-entry.html title="Alumni"   entries=alumni_entries   entries_layout=entries_layout %}

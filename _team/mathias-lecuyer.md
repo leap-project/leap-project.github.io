@@ -1,6 +1,6 @@
 ---
 title: Mathias Lécuyer
-group: affiliate
+group: students
 header:
   teaser: /assets/images/team/mathiasl.jpg
 ---

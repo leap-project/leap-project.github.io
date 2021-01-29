@@ -1,6 +1,6 @@
 ---
 title: Ivan Beschastnikh
-group: core
+group: faculty
 header:
   teaser: /assets/images/team/ivanb.jpg
 ---

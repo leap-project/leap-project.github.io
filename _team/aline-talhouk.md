@@ -1,6 +1,6 @@
 ---
 title: Aline Talhouk
-group: core
+group: faculty
 header:
   teaser: /assets/images/team/aline.jpg
 ---
