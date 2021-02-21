@@ -1,0 +1,11 @@
+
+{% if include.entries.size > 0 %}
+  <h2>{{include.title}}</h2>
+  <div class="entries-{{ include.entries_layout }}">
+    {%- for post in include.entries -%}
+      {%- unless post.hidden -%}
+        {% include archive-single.html type=include.entries_layout %}
+      {%- endunless -%}
+    {%- endfor -%}
+  </div>
+{% endif %}
