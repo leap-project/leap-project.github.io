@@ -1,6 +1,6 @@
 ---
 title: Mishaal Kazmi
-group: student
+group: students
 header:
   teaser: /assets/images/team/mishaalk.jpg
 ---
