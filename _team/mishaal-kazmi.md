@@ -7,5 +7,4 @@ header:
 
 ## PhD-Track Student in Computer Science at UBC
 
-I am broadly interested in Computer and Distributed Systems, Privacy, Security and Machine Learning. I will formally joining UBC in Fall 2021, and working on the 
-Leap project from summer 2021. 
+My research interests revolve around the domains of  Computer and Distributed Systems, with my work primarily spanning over key areas of Network and Software Security. I am also broadly interested Privacy and Machine Learning making the Leap initiative a perfect alignment with my research interests. I will formally join UBC, Vancouver in Fall 2021, and start working on the Leap project from Summer 2021. 
