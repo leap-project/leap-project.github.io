@@ -32,6 +32,7 @@ We work with a fantastic group of students:
 - Chris West (CS Honours)
 - Chris Yoon (Med student)
 - Daisy Zhang (Directed studies, SURE'20)
+- Mishaal Kazmi (CS PhD-Track)
 
 Student alumni:
 
