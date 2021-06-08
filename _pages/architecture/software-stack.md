@@ -1,5 +1,5 @@
 ---
-title: Software Stack
+title: Design and Software Stack
 permalink: /architecture/software-stack/
 header:
   teaser: /assets/images/architecture.jpg
