@@ -4,7 +4,7 @@ title: LEAP Architecture
 layout: splash
 
 header:
-  image: /assets/images/leap-arch-overview.png
+  image: /assets/images/leap-arch-overview.png{: width="250" }
   actions:
     - label: "LEAP architecture overview"
 feature_row:
