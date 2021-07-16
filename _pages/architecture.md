@@ -3,10 +3,6 @@ permalink: /architecture/
 title: LEAP Architecture
 layout: splash
 
-header:
-  image: /assets/images/leap-arch-overview.png
-  actions:
-    - label: "LEAP architecture overview"
 feature_row:
   - title: "Design"
     excerpt: "LEAP implements a federated system for data science over health data"
