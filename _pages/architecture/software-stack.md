@@ -2,7 +2,7 @@
 title: Design and Software Stack
 permalink: /architecture/software-stack/
 header:
-  teaser: /assets/images/architecture.jpg
+  teaser: /assets/images/architecture.png
 ---
 
 LEAP is a federated and privacy preserving evaluation and analysis platform that allows users to run different types of queries, including training machine learning models on distributed data. LEAP achieves this through an infrastructure that brings the computation to the data, instead of bringing the data to the computation.
