@@ -37,6 +37,7 @@ Student alumni:
 - Chris Yoon (Med student)
 - Daisy Zhang (Directed studies, SURE'20)
 
+
 ### Recent publications
 
 - *“Development and validation of the gene-expression Predictor of high-grade-serous Ovarian carcinoma molecular subTYPE (PrOTYPE)”.* A Talhouk, J George, C Wang, T Budden, T Z Tan, P D P Pharoah, G E Konecny, E L Goode, S J Ramus, J A Doherty, DD Bowtell, M S Anglesio, and the Ovarian Tumor Tissye Analysis Consortium. (2020). Clinical Cancer Research, to appear.
