@@ -1,3 +1,0 @@
-## Digital pathology application
-
-TBD

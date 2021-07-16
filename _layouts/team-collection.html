@@ -1,0 +1,14 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign entries_layout =   page.entries_layout | default: 'list' %}
+{% assign faculty_entries =  site['team'] | where:'group', 'faculty' %}
+{% assign students_entries = site['team'] | where:'group', 'students' %}
+{% assign alumni_entries =   site['team'] | where:'group', 'alumni' %}
+
+{% include /team/member-entry.html title="Faculty"  entries=faculty_entries  entries_layout=entries_layout %}
+{% include /team/member-entry.html title="Students" entries=students_entries entries_layout=entries_layout %}
+{% include /team/member-entry.html title="Alumni"   entries=alumni_entries   entries_layout=entries_layout %}
