@@ -21,23 +21,23 @@ Our research team includes:
 
 - [Aline Talhouk](http://alinetalhouk.com/) (Professor in the Faculty of Medicine at UBC)
 - [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) (Professor in Computer Science at UBC)
-- [Mathias Lécuyer](http://mathias.lecuyer.me/) (Joining as Professor in Computer Science at UBC in 2021)
+- [Mathias Lécuyer](http://mathias.lecuyer.me/) (Professor in Computer Science at UBC)
 - [Jean-Francois Rajotte](https://scholar.google.com/citations?user=rDYYdUUAAAAJ&hl=en) (Resident Data Scientist at UBC)
 
 We work with a fantastic group of students:
 
 - Matheus Stolet (CS MSc)
-- Ahmed Abdelmoneim (CS Honors)
 - Kalli Leung (Directed studies, USRA'20)
-- Chris West (CS Honours)
-- Chris Yoon (Med student)
-- Daisy Zhang (Directed studies, SURE'20)
 - Mishaal Kazmi (CS PhD-Track)
+- Jed Yeo (Engineering Physics)
 
 Student alumni:
 
+- Ahmed Abdelmoneim (CS Honors)
 - Aditya Chinchure (WLIUR'20)
-
+- Chris West (CS Honours)
+- Chris Yoon (Med student)
+- Daisy Zhang (Directed studies, SURE'20)
 
 ### Recent publications
 
