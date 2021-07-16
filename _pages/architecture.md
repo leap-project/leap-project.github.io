@@ -15,7 +15,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"    
   - title: "How is LEAP different"
-    excerpt: "LEAP offers programmable API for federated data processing and natively support differential privacy"
+    excerpt: "LEAP offers a programmable API for federated data processing and natively supports differential privacy"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
