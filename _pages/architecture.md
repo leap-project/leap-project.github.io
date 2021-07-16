@@ -4,7 +4,7 @@ title: LEAP Architecture
 layout: splash
 
 header:
-  image: /assets/images/image-filename.jpg
+  image: /assets/images/leap-arch-overview.png
   actions:
     - label: "More Info"
       url: "https://unsplash.com"
