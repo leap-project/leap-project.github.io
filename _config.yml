@@ -16,9 +16,10 @@
 title: Leap Project
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We are group of researchers at the University of British Columbia (UBC)
+  interested in topics at the intersections of health, machine learning, privacy, ethics, and security.
+  We aspire to build usable privacy-enhancing systems that can be readily deployed in healthcare domains.
+  We pursue a variety of projects and collaborations in different domains.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
