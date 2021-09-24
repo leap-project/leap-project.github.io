@@ -2,11 +2,11 @@ We are group of researchers at the University of British Columbia (UBC) interest
 
 ### Current projects
 
-- [Federated health ML systems survey](./systems-survey.md)
-- [Explaining differential privacy](./explaining-dp.md)
-- [Optimizing privacy budget in differential privacy](./budget-optimization.md)
-- [Preserving privacy with data synthesis](./synthesizing-data.md)
-- [Federated ML across RedCap databases](./federated-ml-rcap.md)
+- [Federated health ML systems survey](./_projects/systems-survey.md)
+- [Explaining differential privacy](./_projects/explaining-dp.md)
+- [Optimizing privacy budget in differential privacy](./_projects/budget-optimization.md)
+- [Preserving privacy with data synthesis](./_projects/synthesizing-data.md)
+- [Federated ML across RedCap databases](./_projects/federated-ml-rcap.md)
 
 ### Applications of our research
 
