@@ -10,8 +10,8 @@ We are group of researchers at the University of British Columbia (UBC) interest
 
 ### Applications of our research
 
-- [Endometriosis](./app-endometriosis.md)
-- [Digital pathology](./app-digital-pathology.md)
+- [Endometriosis](./_pages/app-endometriosis.md)
+- [Digital pathology](./_pages/app-digital-pathology.md)
 
 ### People
 
