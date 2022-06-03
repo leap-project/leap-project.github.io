@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/team/mathiasl.jpg
 ---
 
-## Assistant Professor in Computer Schience at UBC
+## Professor in Computer Schience at UBC
 
 I am an Assistant Professor in Computer Schience at UBC. Before that, I was a postdoc researcher at Microsoft Research in NY, and even before I completed my PhD at Columbia University under the supervision of Roxana Geambasu, Augustin Chaintreau, and Daniel Hsu.
 
