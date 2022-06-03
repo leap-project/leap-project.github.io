@@ -7,7 +7,7 @@ header:
 
 ## Professor in the Faculty of Medicine at UBC
 
-I am assistant professor of Obstetrics and Gynecology in the Faculty of Medicine at the University of British Columbia. I am also a principal investigator at OVCARE, BC gynecological cancer research team, where I direct a data science and informatics laboratory. 
+I am an assistant professor of Obstetrics and Gynecology in the Faculty of Medicine at the University of British Columbia. I am also a principal investigator at OVCARE, BC gynecological cancer research team, where I direct a data science and informatics laboratory. 
 
 My research program proposes to bring individualized care to ovarian and endometrial cancer patients by using genetic characteristics of the cancer, as well as other data and risk factors. I am also interested in building predictive models to help women who are approaching menopause better discern the signs and symptoms of gynecological malignancy to improve early detection and identify opportunities for prevention. 
 
