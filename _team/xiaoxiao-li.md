@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/team/xiaoxiao.jpg
 ---
 
-## Assistant Professor in Electrical and Computer Engineering at UBC
+## Professor in Electrical and Computer Engineering at UBC
 
 I am an Assistant Professor in Electrical and Computer Engineering at UBC. Before that, I was a postdoc researcher at Princeton University (working with Dr. Kai Li and Dr. Olga Troyanskaya), and obtained my PhD degree from Yale University in 2020 (working with Dr. James Duncan).
 
